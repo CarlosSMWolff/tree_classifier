@@ -1,0 +1,45 @@
+﻿<!doctype html>
+<html lang="en-GB">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Error | The Woodland Trust</title>
+    <link rel="stylesheet" href="css/main.min.css">
+    
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W67LSS');
+    </script>
+    <!-- End Google Tag Manager -->
+
+</head>
+<body class="error__500">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W67LSS" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <main>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-8 col-md-12">
+                    <img src="/images/layout/wt-logo-lg.svg" height="72" alt="Woodland Trust">
+                    <h1>500: Internal Server Error</h1>
+                    <p>Sorry, we're having some server issues</p>
+                    <p>We're experiencing a technical problem with our server and trying to get back up and running as quickly as possible. Please visit again soon or contact <a href="mailto:enquiries@woodlandtrust.org.uk">enquiries@woodlandtrust.org.uk</a></p>
+                </div>
+            </div>
+        </div>
+    </main>
+    <div class="bg"></div>
+</body>
+</html>

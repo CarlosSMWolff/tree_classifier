@@ -7,3 +7,11 @@ console.error: BackgroundUpdate:
 1661159506429	Marionette	INFO	Listening on port 50596
 1661159506526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661161991502	geckodriver	INFO	Listening on 127.0.0.1:51373
+1661161992523	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/s0/vbr0s5310k3gx108dcyy77040000gn/T/rust_mozprofileSi69Zx"
+1661161992971	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/s0/vbr0s5310k3gx108dcyy77040000gn/T/rust_mozprofileSi69Zx/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1661161994361	Marionette	INFO	Listening on port 51385
+1661161994399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
